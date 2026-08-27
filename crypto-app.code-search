@@ -1,0 +1,23 @@
+# Query: crypto-app
+# ContextLines: 1
+
+4 results - 3 files
+
+index.html:
+  6      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  7:     <title>NexCoin</title>
+  8    </head>
+
+package-lock.json:
+  1  {
+  2:   "name": "",
+  3    "version": "0.0.0",
+
+  7      "": {
+  8:       "name": "Nexcoin",
+  9        "version": "0.0.0",
+
+package.json:
+  1  {
+  2:   "name": "NexCoin",
+  3    "private": true,
