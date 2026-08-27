@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# React + Vite
+NexCoin
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and easy-to-use cryptocurrency tracking application.
 
-Currently, two official plugins are available:
+Features
+Track cryptocurrency prices
+Search for cryptocurrencies
+Favorite cryptocurrencies
+Profile system
+Settings
+Dark theme
+Light theme
+System theme
+Responsive design
+React + Vite
+Popular Cryptocurrencies
+Bitcoin (BTC)
+Ethereum (ETH)
+Solana (SOL)
+BNB
+Technologies
+React
+Vite
+JavaScript
+CSS
+Binance API
+Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Clone the repository and install the dependencies:
 
-## React Compiler
+npm install
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Then open the local URL provided by Vite in your browser.
 
-## Expanding the Oxlint configuration
+About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-=======
-# cryptoapp
->>>>>>> dd903941ab91fa03cda418a5371ef0365c1f19ea
+NexCoin is a frontend cryptocurrency tracking project built with React and Vite.
+
+© 2026 NexCoin
