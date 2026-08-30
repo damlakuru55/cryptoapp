@@ -1,53 +1,25 @@
-# NexCoin
+# NeCoin
 
-A modern and easy-to-use cryptocurrency tracking application.
+A cryptocurrency-focused web application designed to present digital asset information through a modern interface.
 
 ## Features
 
-* Track cryptocurrency prices
-* Search for cryptocurrencies
-* Favorite cryptocurrencies
-* Profile system
-* Settings
-* Dark theme
-* Light theme
-* System theme
-* Responsive design
-* React + Vite
-
-## Popular Cryptocurrencies
-
-* Bitcoin (BTC)
-* Ethereum (ETH)
-* Solana (SOL)
-* BNB
+* Cryptocurrency-focused dashboard
+* Digital asset information
+* Responsive layout
+* Interactive interface
+* Modern visual design
 
 ## Technologies
 
-* React
-* Vite
+* HTML5
+* CSS3
 * JavaScript
-* CSS
-* Binance API
 
-## Installation
+## Purpose
 
-Clone the repository and install the dependencies.
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the local URL provided by Vite in your browser.
-
-## About
-
-NexCoin is a frontend cryptocurrency tracking project built with React and Vite.
+This project was created to practice working with dynamic data, financial-style dashboards, and modern frontend interfaces.
 
 ## License
 
-This project is available for personal and educational use.
-
-Copyright 2026 NexCoin
-
+This project is open source and available under the MIT License.
