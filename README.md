@@ -16,6 +16,10 @@ A cryptocurrency-focused web application designed to present digital asset infor
 * CSS3
 * JavaScript
 
+## Data Handling
+
+Market information should be labeled with its source and retrieval time, and the interface should handle unavailable or stale data gracefully.
+
 ## Purpose
 
 This project was created to practice working with dynamic data, financial-style dashboards, and modern frontend interfaces.
