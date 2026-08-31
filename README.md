@@ -4,29 +4,30 @@ A cryptocurrency-focused web application designed to present digital asset infor
 
 ## Features
 
-* Cryptocurrency-focused dashboard
-* Digital asset information
-* Responsive layout
-* Interactive interface
-* Modern visual design
+- Cryptocurrency-focused dashboard
+- Digital asset information
+- Responsive layout
+- Interactive interface
+- Modern visual design
+- Explicit market-data states
 
 ## Market Data Guidelines
 
 Market values should be presented with a clear source and retrieval time. Missing, stale, or unavailable values should be represented explicitly instead of being shown as current data.
 
+## Data States
+
+The interface should distinguish between loading, available, unavailable, and stale market information. This keeps financial-style information clear and prevents old values from being mistaken for live data.
+
 ## Technologies
 
-* HTML5
-* CSS3
-* JavaScript
-
-## Data Handling
-
-Market information should be labeled with its source and retrieval time, and the interface should handle unavailable or stale data gracefully.
+- HTML5
+- CSS3
+- JavaScript
 
 ## Purpose
 
-This project was created to practice working with dynamic data, financial-style dashboards, and modern frontend interfaces.
+This project was created to practice dynamic data handling, dashboard interfaces, validation, and modern frontend development.
 
 ## License
 
