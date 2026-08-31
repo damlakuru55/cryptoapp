@@ -50,3 +50,8 @@ This project was created to practice dynamic data handling, dashboard interfaces
 ## License
 
 This project is open source and available under the MIT License.
+
+
+## Development Notes
+
+The interface keeps state changes explicit and predictable. User input should be validated before processing, successful actions should update visible state immediately, and invalid states should provide clear feedback.
