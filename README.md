@@ -60,3 +60,7 @@ The interface keeps state changes explicit and predictable. User input should be
 ## Development Notes
 
 Market values should be refreshed consistently, with invalid or unavailable data handled without breaking the visible interface.
+
+## Release Check
+
+Market cards should clearly distinguish current, stale, loading, and unavailable values after every refresh.
