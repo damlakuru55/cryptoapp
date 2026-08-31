@@ -55,3 +55,8 @@ This project is open source and available under the MIT License.
 ## Development Notes
 
 The interface keeps state changes explicit and predictable. User input should be validated before processing, successful actions should update visible state immediately, and invalid states should provide clear feedback.
+
+
+## Development Notes
+
+Market values should be refreshed consistently, with invalid or unavailable data handled without breaking the visible interface.
