@@ -29,6 +29,10 @@ Refresh controls should show a clear loading state, prevent accidental duplicate
 
 Market information should be treated as informational UI data. The application should never imply that delayed or missing values are guaranteed to be live.
 
+## Data Display
+
+Prices, percentages, and timestamps should use consistent formatting so users can compare assets without ambiguity. Missing values should use an explicit unavailable state.
+
 ## Accessibility
 
 Data cards should use clear labels and readable values. Interactive refresh controls should remain keyboard accessible and expose their current state.
@@ -41,7 +45,7 @@ Data cards should use clear labels and readable values. Interactive refresh cont
 
 ## Purpose
 
-This project was created to practice dynamic data handling, dashboard interfaces, validation, and modern frontend development.
+This project was created to practice dynamic data handling, dashboard interfaces, validation, formatting, and modern frontend development.
 
 ## License
 
