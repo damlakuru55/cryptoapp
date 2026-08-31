@@ -62,3 +62,7 @@ Market cards should clearly distinguish current, stale, loading, and unavailable
 ## Final Review
 
 The documented market-data workflow keeps source freshness and visible state explicit for future maintenance.
+
+## Maintenance Notes
+
+Keep data formatting, refresh state, and card rendering modular so changes to market presentation do not affect unrelated interface behavior.
