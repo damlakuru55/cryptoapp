@@ -10,6 +10,7 @@ A cryptocurrency-focused web application designed to present digital asset infor
 - Interactive interface
 - Modern visual design
 - Explicit market-data states
+- Clear refresh feedback
 
 ## Market Data Guidelines
 
@@ -32,6 +33,10 @@ Refresh controls should show a clear loading state, prevent accidental duplicate
 ## Purpose
 
 This project was created to practice dynamic data handling, dashboard interfaces, validation, and modern frontend development.
+
+## Reliability Notes
+
+Market information should be treated as informational UI data. The application should never imply that delayed or missing values are guaranteed to be live.
 
 ## License
 
