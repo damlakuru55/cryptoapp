@@ -19,6 +19,10 @@ Market values should be presented with a clear source and retrieval time. Missin
 
 The interface should distinguish between loading, available, unavailable, and stale market information. This keeps financial-style information clear and prevents old values from being mistaken for live data.
 
+## Refresh UX
+
+Refresh controls should show a clear loading state, prevent accidental duplicate requests while data is being fetched, and restore an actionable state when the request finishes.
+
 ## Technologies
 
 - HTML5
