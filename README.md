@@ -10,6 +10,10 @@ A cryptocurrency-focused web application designed to present digital asset infor
 * Interactive interface
 * Modern visual design
 
+## Market Data Guidelines
+
+Market values should be presented with a clear source and retrieval time. Missing, stale, or unavailable values should be represented explicitly instead of being shown as current data.
+
 ## Technologies
 
 * HTML5
